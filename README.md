@@ -77,12 +77,9 @@ Se configuró un entorno de desarrollo local con WAMP, Composer y MySQL, y se pe
 Pantalla de **Login** funcionando con Bootstrap:
 
 ![Login funcionando](images/login.png)
-(images/login2.png)
-
 Pantalla de **Registro**:
 
 ![Register funcionando](images/register.png)
-(images/register2.png)
 ---
 
 ## ❌ Dificultades y ✔️ Soluciones
